@@ -26,7 +26,7 @@ A blazing-fast, modern ticket booking platform built with **Next.js**, **Supabas
 | Frontend    | Backend      | Database     | UI/UX         | Payments     |
 |-------------|--------------|--------------|----------------|---------------|
 | Next.js 14  | Supabase Edge Functions | PostgreSQL | TailwindCSS + ShadCN | AamarPay (Bangladesh) |
-| TypeScript  | Supabase Auth | Row-Level Security (RLS) | @react-pdf/renderer | Stripe (coming soon) |
+| TypeScript  | Supabase Auth | Row-Level Security (RLS) | Puppeteer | Stripe (coming soon) |
 
 ---
 
