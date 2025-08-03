@@ -17,7 +17,7 @@ A blazing-fast, modern ticket booking platform built with **Next.js**, **Supabas
 - ✍️ Rich text editor for event descriptions
 - 🖼️ Image uploads with Supabase Storage
 - 📥 CSV/Excel export for orders
-- 🧾 PDF invoice/ticket generation with `@react-pdf/renderer`
+- 🧾 PDF invoice/ticket generation with `puppeteer`
 
 ---
 
@@ -31,8 +31,6 @@ A blazing-fast, modern ticket booking platform built with **Next.js**, **Supabas
 ---
 
 ## 📸 Screenshots
-
-> Replace with real images or demo GIFs
 
 | Home Page | Checkout |
 |-----------|----------|
@@ -147,5 +145,3 @@ If you find a bug or want to add a feature, feel free to open an issue.
 ---
 
 > “Where events go big and tickets go fast — TicketBaba, your ultimate ticketing solution.” 🎉
-
-```
