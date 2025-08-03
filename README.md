@@ -130,7 +130,7 @@ If you find a bug or want to add a feature, feel free to open an issue.
 
 ## 📜 License
 
-[MIT](LICENSE)
+[GNU GPLv3](LICENSE)
 
 ---
 
