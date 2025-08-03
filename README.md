@@ -140,7 +140,7 @@ If you find a bug or want to add a feature, feel free to open an issue.
 * Project: [TicketBaba](https://github.com/amiayon8/ticketbaba)
 * Email: [ayon.sarker.2008@gmail.com](mailto:ayon.sarker.2008@gmail.com)
 * Instagram: [@amiayon8](https://instagram.com/amiayon8)
-* Gravatar: [gravatar.com/muktaranikha](https://gravatar.com/muktaranikha)
+* Gravatar: [gravatar.com/thenicedev](https://gravatar.com/thenicedev)
 
 ---
 
